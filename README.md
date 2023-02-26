@@ -7,11 +7,3 @@ Implemented
 [x] correlated AI SIR
 [x] Different ULA and MALA samplers
 [x] Experiments on MCMC GAN stuff
-
-To Do
-[ ] Develop Ex^2 MCMC with part i-SIR and part MALA for refreshment kernel
-[ ] Implement more enhanced version of correlation (Achille to write on overleaf)
-[ ] Put Adaptive i-SIR in pipeline from flow and adaptive_mc files
-[ ] Implement examples as in SA MCMC 
-
-To complete while we advance to ICLR !! :)
